@@ -1,4 +1,4 @@
-import ExpenseReport from './components/ExpenseReport';
+import ExpenseReport from './ExpenseReport';
 import './App.css';
 
 function App() {
